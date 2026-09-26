@@ -38,8 +38,8 @@ If you extend this to cover any of the above, a PR is welcome — just keep the 
 ## 🚀 Quick start
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-name>
+git clone <https://github.com/adityapal2964/tax-agent/tree/main>
+cd <tax-agent>
 
 python3 -m venv venv
 source venv/bin/activate        # Windows: venv\Scripts\activate
